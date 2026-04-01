@@ -24,7 +24,7 @@ This project is a fully responsive subscription-based website developed using Wi
 ---
 
 ## 🛠️ Tech Stack
-- Wix (Custom Development)  
+- Wix
 
 ---
 
